@@ -1,0 +1,15 @@
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\bin\Debug\HR_department_accounting.exe.config
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\bin\Debug\HR_department_accounting.exe
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\bin\Debug\HR_department_accounting.pdb
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.csproj.AssemblyReference.cache
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.csproj.SuggestedBindingRedirects.cache
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.Form1.resources
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.Form2.resources
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.Form3.resources
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.Form4.resources
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.Form5.resources
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.Properties.Resources.resources
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.csproj.GenerateResource.cache
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.csproj.CoreCompileInputs.cache
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.exe
+C:\D2\VS\new\HR_department_accounting\HR_department_accounting\obj\Debug\HR_department_accounting.pdb
